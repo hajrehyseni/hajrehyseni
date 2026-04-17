@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hajre Hyseni
 
-<!--
-**hajrehyseni/hajrehyseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CEO & Founder at [London Royal Academy](https://lra.co.uk) | AI Academic at University of Hertfordshire | Builder of AI-powered tools
 
-Here are some ideas to get you started:
+I help leaders and businesses unlock AI — clearly, profitably, and without the overwhelm. With 17+ years across tech, strategy, and digital transformation, I build things that turn big ideas into real business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trusted by Virgin, AT&T, Paul Smith, and global leaders across industries.
+
+## What I Build
+
+I ship AI-powered web applications using Claude, GPT, and modern frameworks. Every project here solves a real business problem — from automating LinkedIn content strategy to AI-driven food label analysis.
+
+### Featured Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [CEO's Pen](https://ghost-scribe-lra.lovable.app) | AI ghostwriter that generates, schedules, and publishes LinkedIn posts in my voice | Claude API, Supabase, React |
+| [StratOS Lite](https://stratos-lite.lovable.app) | Lightweight strategic operating system for SMEs | React, Supabase |
+| [CIAI Academy](https://ciai-academy.lovable.app) | Certified AI credentials platform with gamified learning | React, Supabase |
+| [AI Lab Companion](https://ai-lab-companion.lovable.app) | Interactive AI business lab for workshops and training | React, Supabase |
+| [AI Compass 2026](https://ai-compass-2026.lovable.app) | Navigate the AI landscape with curated weekly insights | React, Supabase |
+| [RealFood?](https://github.com/hajrehyseni/realfood-ai) | AI-powered food label decoder exposing ultra-processed ingredients | Claude API, Python, FastAPI |
+
+## Writing & Speaking
+
+- Regular LinkedIn content on AI strategy, leadership, and digital transformation — [linkedin.com/in/hajra](https://linkedin.com/in/hajra)
+- University lecturer in AI, business strategy, and entrepreneurship
+- Advisor to businesses on AI adoption and competitive advantage
+
+## Tech I Work With
+
+Claude API GPT Python TypeScript React Supabase FastAPI Vercel Lovable
+
+---
+
+Building at the intersection of AI, business, and academia. London, UK.
