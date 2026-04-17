@@ -14,11 +14,11 @@ I ship AI-powered web applications using Claude, GPT, and modern frameworks. Eve
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [CEO's Pen](https://ghost-scribe-lra.lovable.app) | AI ghostwriter that generates, schedules, and publishes LinkedIn posts in my voice | Claude API, Supabase, React |
-| [StratOS Lite](https://stratos-lite.lovable.app) | Lightweight strategic operating system for SMEs | React, Supabase |
-| [CIAI Academy](https://ciai-academy.lovable.app) | Certified AI credentials platform with gamified learning | React, Supabase |
-| [AI Lab Companion](https://ai-lab-companion.lovable.app) | Interactive AI business lab for workshops and training | React, Supabase |
-| [AI Compass 2026](https://ai-compass-2026.lovable.app) | Navigate the AI landscape with curated weekly insights | React, Supabase |
+| [CEO's Pen](https://github.com/hajrehyseni/ghost-scribe-lra) | AI ghostwriter that generates, schedules, and publishes LinkedIn posts in my voice | Claude API, Supabase, React |
+| [StratOS Lite](https://github.com/hajrehyseni/strat-os-lite) | Lightweight strategic operating system for SMEs | React, Supabase |
+| [CIAI Academy](https://github.com/hajrehyseni/ciai) | Certified AI credentials platform with gamified learning | React, Supabase |
+| [AI Lab Companion](https://github.com/hajrehyseni/ai-biz-lab-companion) | Interactive AI business lab for workshops and training | React, Supabase |
+| [AI Compass 2026](https://github.com/hajrehyseni/ai-compass-2026) | Navigate the AI landscape with curated weekly insights | React, Supabase |
 | [RealFood?](https://github.com/hajrehyseni/realfood-ai) | AI-powered food label decoder exposing ultra-processed ingredients | Claude API, Python, FastAPI |
 
 ## Writing & Speaking
